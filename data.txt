@@ -1,0 +1,3 @@
+Name = Fábio;
+age = 29 ;
+favourite color = black;
